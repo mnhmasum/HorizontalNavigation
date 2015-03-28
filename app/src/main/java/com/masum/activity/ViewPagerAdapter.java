@@ -44,7 +44,7 @@ public class ViewPagerAdapter extends PagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int pos) {
-        return MainActivity.relativeSizeSpan(country[pos], pos);
+        return MainActivity.resizingSpan(country[pos], pos);
     }
 
 }

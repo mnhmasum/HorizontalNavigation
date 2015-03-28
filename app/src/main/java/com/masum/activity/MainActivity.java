@@ -95,9 +95,15 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
         }
     }
 
-    public static CharSequence relativeSizeSpan(CharSequence source, int pos) {
+    public static CharSequence resizingSpan(CharSequence source, int pos) {
+        //Set smaller all unselected item
+        if (viewPager.getCurrentItem() != pos) {
+            return source;
+        }
+
+        //set bigger selected item
         final SpannableString spannableString = new SpannableString(source);
-        spannableString.setSpan(new RelativeSizeSpan(1.2f), 0, source.length(), 0);
+        spannableString.setSpan(new RelativeSizeSpan(1.4f), 0, source.length(), 0);
         return spannableString;
     }
 }
