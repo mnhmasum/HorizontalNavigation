@@ -41,7 +41,6 @@ public class ViewPagerAdapter extends PagerAdapter {
         ((ViewPager) container).removeView((RelativeLayout) object);
     }
 
-
     @Override
     public CharSequence getPageTitle(int pos) {
         return MainActivity.resizingSpan(country[pos], pos);
