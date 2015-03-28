@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Android Studio Project\CustomNavigation\app\libs\volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\volley-df12338aaa8726fa7e9ec053bc4209d07b81e793.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Project\CustomNavigation\app\libs\httpmime-4.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9ba2dcdf94ce35c8a8e9bff242db0618ca932e92">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\httpmime-4.1-fb9a2cdc5f57d07e10e0c6052cb148c297711d65.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Project\CustomNavigation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\classes-c1090ac8a38d25d552a0a562fca1f51e07be1735.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Project\CustomNavigation\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\classes-bb70a1b5f050c6a0604c01d13a3d54f79247f577.jar" />
+    </item>
+    <item
+        jar="C:\Users\masum\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-3bd2d560db5682c0b1b56878bf73a9d6a284843b.jar" />
+    </item>
+    <item
+        jar="E:\Android Studio Project\CustomNavigation\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="E:\Android Studio Project\CustomNavigation\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-67e30b9ffce68afd7767956783c2c1d8fc231b5a.jar" />
+    </item>
+
+</items>

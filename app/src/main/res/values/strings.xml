@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Horizontal Navigation</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_save">Save</string>
+    <string name="button_next">Next</string>
+    <string name="button_prev">Prev</string>
+</resources>
